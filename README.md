@@ -22,15 +22,17 @@ npm install
 npm run build
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
+
+### Compiles and run in development environment
+```
+npm run serve
+```
+
+
 
 
 
