@@ -7,7 +7,7 @@ For example if the dice colors are (Red, Yellow, Blue, Green, Orange, Purple), l
 If player1 rolls the dice and gets Green then one of the object in player2 gets eliminated and player1 gets another chance as he hit otherwise the chance goes to player2 to roll the dice.
 
 The game dashborad looks like this: 
-![Colored Game Dashboard](blob/dashboard.JPG?raw=true "Colored Game Dashboard")
+![Game Board](https://github.com/vallabhav/colored-dice-game-client/blob/master/blob/images/dashboard.JPG?raw=true)
 
 To run this application, the game server app should be running, it can be found at:
 https://github.com/vallabhav/colored-dice-game-server.git
