@@ -32,6 +32,7 @@ npm run lint
 npm run serve
 ```
 
+The game client can be accessed at  http://localhost:8080/
 
 
 
