@@ -7,7 +7,7 @@ For example if the dice colors are (Red, Yellow, Blue, Green, Orange, Purple), l
 If player1 rolls the dice and gets Green then one of the object in player2 gets eliminated and player1 gets another chance as he hit otherwise the chance goes to player2 to roll the dice.
 
 The game dashborad looks like this: 
-
+![Colored Game Dashboard](https://user-images.githubusercontent.com/1246386/87859098-622e7580-c950-11ea-88cd-93c0106cde7d.png)
 
 ## Project setup
 ```
