@@ -1,17 +1,21 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <ColorDiceGame :msg="msg"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ColorDiceGame from './components/ColorDiceGame.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ColorDiceGame
+  },
+  data () {
+    return  {
+      msg: "Hello"
+    }
   }
 }
 </script>
@@ -22,7 +26,9 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #776e65;
+  background: #faf8ef;
+  width: 70%;
+  margin: 0 auto;
 }
 </style>
